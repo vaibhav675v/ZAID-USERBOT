@@ -5,8 +5,8 @@ from pyrogram.types import *
 from helpers.basic import edit_or_reply, get_text, get_user
 
 
-OWNER = os.environ.get("OWNER", None)
-BIO = os.environ.get("BIO", "Lҽɠҽɳԃαɾყ Oϝ #Zαιԃ UʂҽɾႦσƚ")
+OWNER = os.environ.get("OWNER", VAIBHAV)
+BIO = os.environ.get("BIO", "BIO KYA HOTA HAI AB 🙂")
 
 
 
