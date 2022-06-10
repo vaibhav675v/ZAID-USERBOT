@@ -114,12 +114,12 @@ async def alive(client: Client, e: Message):
             ids += 1
         if bot50:
             ids += 1
-        Alive_msg = f"𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐈𝐬 𝐎𝐧 𝐅𝐢𝐫𝐞 🔥 \n\n"
+        Alive_msg = f"⚡𝐕𝐚𝐢𝐛𝐡𝐚𝐕⚡ 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐈𝐬 𝐎𝐧 𝐅𝐢𝐫𝐞 🔥 \n\n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n"
         Alive_msg += f"► Vᴇʀsɪᴏɴ : `Beta.0.1` \n"
         Alive_msg += f"► ᴘʏʀᴏ ᴠᴇʀsɪᴏɴ : `{pyro_vr}` \n"
         Alive_msg += f"► Aᴄᴛɪᴠᴇ IDs : `{ids}` \n"
-        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ.](https://t.me/Superior_Support) \n"
+        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ.](https://t.me/DESTROY_IN_SECOND) \n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n\n"
         await e.reply_photo(
         photo=ALIVE_PIC,
@@ -127,19 +127,19 @@ async def alive(client: Client, e: Message):
         reply_markup=InlineKeyboardMarkup(
                 [[
                     InlineKeyboardButton(
-                        "• 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 •", url="https://t.me/Superior_Bots")
+                        "• 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 •", url="https://t.me/DESTROY_IN_SECOND")
                 ], [
                     InlineKeyboardButton(
-                        "• 𝐑𝐞𝐩𝐨 •", url="https://github.com/ITZ-ZAID/ZAID-USERBOT")
+                        "• 𝐑𝐞𝐩𝐨 •", url="https://telegra.ph/file/00b72f8aefe85cb069850.jpg")
                 ]],
         ),
     ) 
     except Exception as lol:         
-        Alive_msg = f"𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐈𝐬 𝐎𝐧 𝐅𝐢𝐫𝐞 🔥 \n\n"
+        Alive_msg = f"⚡𝐕𝐚𝐢𝐛𝐡𝐚𝐕⚡ 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐈𝐬 𝐎𝐧 𝐅𝐢𝐫𝐞 🔥 \n\n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n"
         Alive_msg += f"► ᴠᴇʀsɪᴏɴ : `Beta.0.1` \n"
         Alive_msg += f"► Pʏʀᴏ ᴠᴇʀsɪᴏɴ : `1.4.15` \n"
-        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ](https://t.me/Superior_Support) \n"
+        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ](https://t.me/DESTROY_IN_SECOND) \n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n\n"
         await e.reply_photo(
         photo=ALIVE_PIC,
@@ -147,10 +147,10 @@ async def alive(client: Client, e: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("• 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 •", url="https://t.me/Superior_Bots"),
+                    InlineKeyboardButton("• 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 •", url="https://t.me/DESTROY_IN_SECOND"),
                 ],
                 [
-                    InlineKeyboardButton("• 𝐑𝐞𝐩𝐨 •", url="https://github.com/Itz-Zaid/Zaid-Userbot"),
+                    InlineKeyboardButton("• 𝐑𝐞𝐩𝐨 •", url="https://telegra.ph/file/00b72f8aefe85cb069850.jpg"),
                 ],
             ],
         ),
