@@ -57,7 +57,7 @@ async def pingme(client: Client, message: Message):
     get = await client.get_me()
     mention = get.first_name
     reply = await message.edit("...")
-    await reply.edit(f"🎉 🇵 🇴 🇳 🇬 !\n\n My Master {mention}")
+    await reply.edit(f"🎉 🇵 🇴 🇳 🇬 @x0x_vaibhav_x0x !\n\n My Master {mention}")
 
 
 
