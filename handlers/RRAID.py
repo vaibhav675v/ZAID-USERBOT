@@ -4,7 +4,7 @@ I have Spent My Lots of Time on That to make
 It successfull.
 So Uh Are Still Thinking To kang?
 Don't kang Without Creadits
-© https://github.com/ITZ-ZAID/ZAID-USERBOT and @Timesisnotwaiting
+© https://telegra.ph/file/2570ac664e721a33a0aa7.jpg and @x0x_VAIBHAV_x0x
 """
 
 
